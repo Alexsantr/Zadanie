@@ -1,0 +1,117 @@
+.head{
+   
+    width: 1110px;
+    height: 46px;
+    left: 405px;
+    top: 72px;
+    
+}
+
+.menu_1{position: absolute;
+    width: 59px;
+
+    left: 1103px;
+    top: 87px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+}
+
+.menu_2{
+    position: absolute;
+    
+    
+    left: 1192px;
+    top: 87px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+
+}
+
+.menu_3{
+    position: absolute;
+width: 82px;
+height: 16px;
+left: 1322px;
+top: 87px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.05em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+}
+
+.menu_4{
+
+    position: absolute;
+width: 81px;
+height: 16px;
+left: 1434px;
+top: 87px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.05em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+}
+
+
+.head_pacle{
+    position: absolute;
+    width: 97px;
+    height: 16px;
+    left: 660px;
+    top: 87px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.05em;
+    
+    color: #FFFFFF;
+
+}
+
+
+.head_icon{
+    position: absolute;
+    width: 46px;
+    height: 0px;
+    left: 595px;
+    top: 88px;
+  
+    
+    border: 1px solid #F2F2F2;
+    transform: rotate(90deg);
+
+
+}
