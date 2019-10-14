@@ -1,0 +1,14 @@
+.cont{
+display: flex;
+background-color: rgb(68, 59, 49);
+height: 100vh;
+width: 100%;
+justify-content: space-between;
+}
+.info_left{
+
+    background-color: darkgoldenrod;
+    width: 40%;
+
+    
+}

@@ -12,10 +12,10 @@
 
 
 .services_content{
-    min-height: px;
+    height: 60vh;
     width: 1108px;
-display: flex;
-flex-direction: column;
+    display: flex;
+    flex-direction: column;
 
     /* /* margin-top: 10%; */
    
@@ -30,6 +30,7 @@ flex-direction: column;
    width: 100%;
     display: flex;
     flex-wrap: wrap;
+    
    
 
     
@@ -75,7 +76,7 @@ flex-direction: column;
     height: 180px;
      background: rgb(83, 80, 75);
     border: 2px solid white;}
-.gro8{   flex: 4; width: 276px;
+.gro8{    width: 276px;
     height: 180px;
      background: rgb(83, 80, 75);
     border: 2px solid white;}
