@@ -1,0 +1,81 @@
+.services{
+  
+    flex-direction: column;
+    height: 100vh;
+ width: 100%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+
+.services_content{
+    min-height: px;
+    width: 1108px;
+display: flex;
+flex-direction: column;
+
+    /* /* margin-top: 10%; */
+   
+    border: 1px solid #C8A35F;
+   
+
+}
+.group
+
+{ 
+   
+   width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+   
+
+    
+}
+.gro{
+  
+
+  width: 276px;
+  height: 180px;
+   background: rgb(83, 80, 75);
+  border: 2px solid white;
+
+}
+
+.gro2{
+ 
+    width: 276px;
+    height: 180px;
+     background: rgb(83, 80, 75);
+    border: 2px solid white;}
+    
+.gro3{ 
+    width: 276px;
+    height: 180px;
+     background: rgb(83, 80, 75);
+    border: 2px solid white;}
+.gro4{ width: 276px;
+    height: 180px;
+     background: rgb(83, 80, 75);
+    border: 2px solid white;}
+.gro5{ 
+    width: 276px;
+    height: 180px;
+     background: rgb(83, 80, 75);
+    border: 2px solid white;}
+.gro6{ 
+    width: 276px;
+    height: 180px;
+     background: rgb(83, 80, 75);
+    border: 2px solid white;}
+.gro7{ 
+    width: 276px;
+    height: 180px;
+     background: rgb(83, 80, 75);
+    border: 2px solid white;}
+.gro8{   flex: 4; width: 276px;
+    height: 180px;
+     background: rgb(83, 80, 75);
+    border: 2px solid white;}
