@@ -1,0 +1,55 @@
+.info{
+  
+height: 60vh;
+display: flex;
+text-align: center;
+font-size: 14px;
+flex-wrap: nowrap;
+justify-content: space-between;
+background: linear-gradient(to right , rgb(0, 0, 0) 50%);
+
+
+}
+hr{
+
+width: 90px;
+height: 0.5px;
+left: 405px;
+background: #C8A35F;
+}
+
+ .info_left{
+ 
+    position: relative; z-index: 5;
+    right: 100px;
+   
+    flex-basis: 30%;
+    background: #393F47; 
+   
+}
+
+.info_right{
+
+    left: 600px;
+    position: relative; z-index: 5;
+    
+    flex-basis: 30%;
+    background: #393F47; 
+
+
+}
+
+
+.vsu{
+    width: 1108px;
+    display: flex;
+
+  justify-content: space-around;
+  border: 1px solid #C8A35F;
+
+}
+
+.info  input {
+    width: 65px;
+    height: 20px;
+}

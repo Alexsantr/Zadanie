@@ -1,0 +1,27 @@
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0%;
+    padding: 0%;
+    height: 160px;
+    width: 100%;
+    background: #C8A35F;
+}
+.footer li{
+    margin: 0%;
+    padding: 0%;
+}.footer h1{
+    margin: 0%;
+    padding: 0%;
+}
+
+.logo_adress{
+    
+    flex-direction:row;
+    flex-wrap:wrap;
+}
+.logo_adress li {
+    display: flex;
+    flex-direction:column;
+}

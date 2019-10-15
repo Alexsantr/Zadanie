@@ -1,0 +1,52 @@
+.content {
+    min-height: 70vh;
+    min-width: 100%;
+    background: url(/photo/12.png);
+    background-size: cover;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+  
+
+}
+
+.ram {
+    display: flex;
+    max-width: 50%;
+    border: 1px solid #C8A35F;
+    text-align: center;
+    flex-direction: column;
+    margin-top: 5%
+
+
+}
+
+@media screen and (max-width :648px) {
+    .ram {
+        max-width: 100%;
+    }
+
+    .content {
+        height: 100vh;
+
+    }
+}
+
+.ram h2 {
+
+    font-size: 64px;
+    flex-grow: 1;
+}
+
+.ram p {
+    white-space: normal;
+    flex-grow: 1;
+    word-spacing: 2px;
+    font-size: 18px;
+}
+
+
+
+

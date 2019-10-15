@@ -1,0 +1,52 @@
+.container {
+    display: flex;  
+    flex-flow: wrap;
+    font-weight: bold;
+    flex-basis: 100%;
+    min-height: 45px;
+    background: #C8A35F;
+    font-size: 12px;
+    align-items: center;
+    
+}
+/* @media screen and (min-width:500){
+    .container{
+       
+        display: flex;
+        flex-wrap: wrap;
+       
+    }
+} */
+
+.container li{
+    justify-content: space-between;
+    text-align: center;
+}
+
+
+
+
+
+
+.cont-lang {
+    flex-flow: wrap;
+    flex: 1;
+   
+
+}
+
+/* .cont-lang a{
+    display: inline-block;
+} */
+
+.cont-phone {
+    flex-flow: wrap;
+    flex: 1;
+
+}
+
+.cont-mail {
+
+    flex-flow: wrap;
+    flex: 1;
+}
