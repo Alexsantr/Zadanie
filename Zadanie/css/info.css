@@ -1,0 +1,44 @@
+.info{
+height: 60vh;
+display: flex;
+text-align: center;
+font-size: 14px;
+/* flex-wrap: wrap; */
+
+background: linear-gradient(to right , rgb(0, 0, 0) 50%);
+
+
+}
+hr{
+
+width: 90px;
+height: 6px;
+left: 405px;
+top: 885px;
+background: #C8A35F;
+}
+
+ .info_left{
+    position: relative;
+    left:100px;
+    flex-grow: 1;
+    flex-basis: 50%;
+    background: #393F47; 
+    z-index: -1;
+}
+
+.info_right{
+    position: relative;
+    flex-grow: 1;
+    flex-basis: 50%;
+background: #393F47; 
+z-index: -1;
+
+}
+
+
+.vsu{
+    display: flex;
+align-content: center;
+z-index: 2;
+}

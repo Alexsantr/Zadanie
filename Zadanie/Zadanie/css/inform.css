@@ -1,0 +1,95 @@
+.inform{
+    
+    position: absolute;
+    width: 1920px;
+    height: 45px;
+    left: 0px;
+    top: 0px;
+/* Позиция  */
+
+
+    /* Фон золотой */
+    background: #C8A35F;
+    /* Фон золотой */ 
+}
+.inform_lang{
+   
+
+    width: 82px;
+    height: 13px;
+    left: 405px;
+    top: 16px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+margin: 16px;
+
+
+}
+.inform_lang .lang_1{
+    position: absolute;
+width: 23px;
+height: 13px;
+left: 405px;
+top: 16px;
+
+
+
+}
+.inform_lang .lang_2{
+    position: absolute;
+width: 24px;
+height: 13px;
+left: 438px;
+top: 16px;
+opacity: 0.5;
+
+    
+}
+.inform_lang .lang_3{
+    position: absolute;
+width: 15px;
+height: 13px;
+left: 472px;
+top: 16px;
+opacity: 0.5;
+    
+}
+
+
+.inform_number{
+    position: absolute;
+width: 95px;
+height: 13px;
+left: 913px;
+top: 16px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+
+.inform_emal{
+    position: absolute;
+width: 95px;
+height: 13px;
+left: 1420px;
+top: 16px;
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+text-align: right;
+
+color: #FFFFFF;
+}

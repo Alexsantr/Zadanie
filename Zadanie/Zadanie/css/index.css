@@ -1,0 +1,11 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background: #2F343A;
+    text-decoration: none;
+    
+}
+body a{
+    color: rgb(255, 255, 255) !important;
+    text-decoration: none
+}
